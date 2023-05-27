@@ -4,7 +4,7 @@ import Formulario from './componentes/Formulario';
 import Time from './componentes/Time';
 import Rodape from './componentes/Rodape';
 
-function App() {
+function App() {   
 
   const times = [
     {
@@ -70,3 +70,5 @@ function App() {
 }
 
 export default App;
+
+// ignorar o teste
